@@ -23,8 +23,3 @@ int main(void)
 	printf("%d\n", total);
 	return (0);
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Priva
